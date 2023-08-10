@@ -1,0 +1,2 @@
+# damo
+setting up git
